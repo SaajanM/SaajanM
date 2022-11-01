@@ -652,7 +652,25 @@
       <h1><span style="width: 100%;">Welcome!</span></h1>
       <hr />
       <h2>About Me</h2>
-      <p>I am a passionate student at Arizona State University, studying Computer Science and mathematics.</p>
+      <p>I am a passionate student at Arizona State University, studying Computer Science and Mathematics. I enjoy
+        studying ways to model and simulate natural phenomena and look forward to attending graduate school in the
+        future. </p>
+      <h2>Interests</h2>
+      <ul>
+        <li>Theoretical Computer Science</li>
+        <li>Linear Algebra</li>
+        <li>Computational Modeling</li>
+        <li>Artificial Intelligence</li>
+        <li>Game Theory</li>
+      </ul>
+      <h2>Current Projects</h2>
+      <ul>
+        <li>TCR-Epitope Binding Prediction with ML</li>
+        <li>Natural Terrain Generation for Games</li>
+        <li>Data Compression via Learned Data Structures</li>
+        <li>Hydration Measuring Social Application</li>
+      </ul>
+      <p>For a full website check <a href="https://www.public.asu.edu/~sdmaslan/#/">here</a></p>
     </body>
   </foreignObject>
 </svg>
