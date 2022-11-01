@@ -1,2 +1,2 @@
 <img style="width: 100%;height: 900px;"
-  src="https://cdn.jsdelivr.net/gh/SaajanM/SaajanM@f3283172a8e03c9169553562b25743d76fc430a0/website.svg?sanitize=true">
+  src="https://cdn.jsdelivr.net/gh/SaajanM/SaajanM@5d34fff2a7db297742f051ef12fa93b24dd0f0ac/website.svg?sanitize=true">
