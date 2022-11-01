@@ -1,10 +1,14 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml-stylesheet type="text/css" href="https://latex.now.sh/style.css" ?>
 <svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
+
     <body xmlns="http://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" href="https://latex.now.sh/style.css" />
-      <h1>Hello, world</h1>
+      <h1><span style="width: 100%;">Welcome!</span></h1>
+      <hr />
+      <h2>About Me</h2>
+      <p>I am a passionate student at Arizona State University, studying Computer Science and mathematics.</p>
     </body>
   </foreignObject>
 </svg>
