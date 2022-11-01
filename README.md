@@ -1,1 +1,1 @@
-<img src="https://cdn.jsdelivr.net/gh/SaajanM/SaajanM@main/test.svg?sanitize=true">
+<img style="width: 100%;" src="https://cdn.jsdelivr.net/gh/SaajanM/SaajanM@main/test.svg?sanitize=true">
