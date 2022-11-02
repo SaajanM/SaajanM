@@ -1,5 +1,5 @@
-<a href="https://www.public.asu.edu/~sdmaslan/#/">
+<!-- <a href="https://www.public.asu.edu/~sdmaslan/#/"> -->
   <!-- <img style="width: 100%;height: 900px;"
     src="https://cdn.jsdelivr.net/gh/SaajanM/SaajanM@5f0dd990454c11760fad870a08c7da7eba254050/website.svg?sanitize=true"> -->
-  <object data="https://cdn.jsdelivr.net/gh/SaajanM/SaajanM@5f0dd990454c11760fad870a08c7da7eba254050/website.svg?sanitize=true" type="image/svg+xml" style="width: 100%;height: 900px;"></object>
-</a>
+  ![Saajan Maslanka's Profile]("https://cdn.jsdelivr.net/gh/SaajanM/SaajanM@5f0dd990454c11760fad870a08c7da7eba254050/website.svg?sanitize=true")
+<!-- </a> -->
